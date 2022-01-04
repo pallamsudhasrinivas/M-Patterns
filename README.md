@@ -1,2 +1,2 @@
 # M-Patterns
-Will explore different microservices patterns 
+In this project will explore different types of Microservices Patterns
