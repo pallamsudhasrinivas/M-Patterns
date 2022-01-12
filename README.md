@@ -55,80 +55,80 @@ Refactoring to microservices
   
 Data management
 
-  1.Database per Service
-  2.Shared database
-  3.Saga
-  4.API Composition
-  5.CQRS
-  6.Domain event
-  7.Event sourcing
+      1.Database per Service
+      2.Shared database
+      3.Saga
+      4.API Composition
+      5.CQRS
+      6.Domain event
+      7.Event sourcing
   
 Transactional messaging
 
-  1.Transactional outbox
-  2.Transaction log tailing
-  3.Polling publisher
+      1.Transactional outbox
+      2.Transaction log tailing
+      3.Polling publisher
 
 Testing
 
-  1.Service Component Test
-  2.Consumer-driven contract test
-  3.Consumer-side contract test
+      1.Service Component Test
+      2.Consumer-driven contract test
+      3.Consumer-side contract test
 
 Deployment patterns
 
-  1.Multiple service instances per host
-  2.Service instance per host
-  3.Service instance per VM
-  4.Service instance per Container
-  5.Serverless deployment
-  6.Service deployment platform
+      1.Multiple service instances per host
+      2.Service instance per host
+      3.Service instance per VM
+      4.Service instance per Container
+      5.Serverless deployment
+      6.Service deployment platform
 
 Cross cutting concerns
 
-  1.Microservice chassis
-  2.Service Template
-  3.Externalized configuration
+      1.Microservice chassis
+      2.Service Template
+      3.Externalized configuration
   
 Communication style
 
-  1.Remote Procedure Invocation
-  2.Messaging
-  3.Domain-specific protocol
-  4.Idempotent Consumer
+      1.Remote Procedure Invocation
+      2.Messaging
+      3.Domain-specific protocol
+      4.Idempotent Consumer
   
 External API
 
-  1.API gateway
-  2.Backend for front-end
+      1.API gateway
+      2.Backend for front-end
   
 Service discovery
 
-  1.Client-side discovery
-  2.Server-side discovery
-  3.Service registry
-  4.Self registration
-  5.3rd party registration
+      1.Client-side discovery
+      2.Server-side discovery
+      3.Service registry
+      4.Self registration
+      5.3rd party registration
   
 Reliability
 
-  1.Circuit Breaker
+      1.Circuit Breaker
   
 Security
 
-  1.Access Token
+      1.Access Token
   
 Observability
 
-  1.Log aggregation
-  2.Application metrics
-  3.Audit logging
-  4.Distributed tracing
-  5.Exception tracking
-  5.Health check API
-  6.Log deployments and changes
+      1.Log aggregation
+      2.Application metrics
+      3.Audit logging
+      4.Distributed tracing
+      5.Exception tracking
+      5.Health check API
+      6.Log deployments and changes
   
 UI patterns
 
-  1.Server-side page fragment composition
-  2.Client-side UI composition
+      1.Server-side page fragment composition
+      2.Client-side UI composition
