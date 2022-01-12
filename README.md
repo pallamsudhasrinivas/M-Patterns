@@ -38,20 +38,20 @@ In this project will explore different types of Microservices Patterns in practi
 
 Application architecture patterns
 
-  1.Monolithic architecture
-  2.Microservice architecture
+      1.Monolithic architecture
+      2.Microservice architecture
 
 Decomposition
 
-  1.Decompose by business capability
-  2.Decompose by subdomain
-  3.Self-contained Servicenew
-  4.Service per team
+      1.Decompose by business capability
+      2.Decompose by subdomain
+      3.Self-contained Servicenew
+      4.Service per team
 
 Refactoring to microservices
 
-  1.Strangler Application
-  2.Anti-corruption layer
+      1.Strangler Application
+      2.Anti-corruption layer
   
 Data management
 
