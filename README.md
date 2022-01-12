@@ -34,7 +34,7 @@ In this project will explore different types of Microservices Patterns in practi
 31. Domain Entities
 32. Gateway Aggregation
 
-Seggregation of patterns
+                                                        Seggregation of patterns
 
 Application architecture patterns
 
@@ -77,50 +77,58 @@ Testing
 
 Deployment patterns
 
-Multiple service instances per host
-Service instance per host
-Service instance per VM
-Service instance per Container
-Serverless deployment
-Service deployment platform
+  1.Multiple service instances per host
+  2.Service instance per host
+  3.Service instance per VM
+  4.Service instance per Container
+  5.Serverless deployment
+  6.Service deployment platform
+
 Cross cutting concerns
 
-Microservice chassis
-Service Template
-Externalized configuration
+  1.Microservice chassis
+  2.Service Template
+  3.Externalized configuration
+  
 Communication style
 
-Remote Procedure Invocation
-Messaging
-Domain-specific protocol
-Idempotent Consumer
+  1.Remote Procedure Invocation
+  2.Messaging
+  3.Domain-specific protocol
+  4.Idempotent Consumer
+  
 External API
 
-API gateway
-Backend for front-end
+  1.API gateway
+  2.Backend for front-end
+  
 Service discovery
 
-Client-side discovery
-Server-side discovery
-Service registry
-Self registration
-3rd party registration
+  1.Client-side discovery
+  2.Server-side discovery
+  3.Service registry
+  4.Self registration
+  5.3rd party registration
+  
 Reliability
 
-Circuit Breaker
+  1.Circuit Breaker
+  
 Security
 
-Access Token
+  1.Access Token
+  
 Observability
 
-Log aggregation
-Application metrics
-Audit logging
-Distributed tracing
-Exception tracking
-Health check API
-Log deployments and changes
+  1.Log aggregation
+  2.Application metrics
+  3.Audit logging
+  4.Distributed tracing
+  5.Exception tracking
+  5.Health check API
+  6.Log deployments and changes
+  
 UI patterns
 
-Server-side page fragment composition
-Client-side UI composition
+  1.Server-side page fragment composition
+  2.Client-side UI composition
