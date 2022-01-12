@@ -33,3 +33,94 @@ In this project will explore different types of Microservices Patterns in practi
 30. UI side page composition
 31. Domain Entities
 32. Gateway Aggregation
+
+Seggregation of patterns
+
+Application architecture patterns
+
+  1.Monolithic architecture
+  2.Microservice architecture
+
+Decomposition
+
+  1.Decompose by business capability
+  2.Decompose by subdomain
+  3.Self-contained Servicenew
+  4.Service per team
+
+Refactoring to microservices
+
+  1.Strangler Application
+  2.Anti-corruption layer
+  
+Data management
+
+  1.Database per Service
+  2.Shared database
+  3.Saga
+  4.API Composition
+  5.CQRS
+  6.Domain event
+  7.Event sourcing
+  
+Transactional messaging
+
+  1.Transactional outbox
+  2.Transaction log tailing
+  3.Polling publisher
+
+Testing
+
+  1.Service Component Test
+  2.Consumer-driven contract test
+  3.Consumer-side contract test
+
+Deployment patterns
+
+Multiple service instances per host
+Service instance per host
+Service instance per VM
+Service instance per Container
+Serverless deployment
+Service deployment platform
+Cross cutting concerns
+
+Microservice chassis
+Service Template
+Externalized configuration
+Communication style
+
+Remote Procedure Invocation
+Messaging
+Domain-specific protocol
+Idempotent Consumer
+External API
+
+API gateway
+Backend for front-end
+Service discovery
+
+Client-side discovery
+Server-side discovery
+Service registry
+Self registration
+3rd party registration
+Reliability
+
+Circuit Breaker
+Security
+
+Access Token
+Observability
+
+Log aggregation
+Application metrics
+Audit logging
+Distributed tracing
+Exception tracking
+Health check API
+Log deployments and changes
+UI patterns
+
+Server-side page fragment composition
+Client-side UI composition
